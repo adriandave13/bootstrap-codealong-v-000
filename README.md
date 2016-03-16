@@ -1,4 +1,4 @@
-# Exceptional Reaty Website (Bootstrapped Version)
+# Exceptional Realty Website (Bootstrapped Version)
 
 This is an example website using thr Twitter Bootstrap v3 framework.
 
